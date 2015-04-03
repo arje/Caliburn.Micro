@@ -6,6 +6,7 @@ namespace Caliburn.Micro.Hello
     {
         public HelloBootstrapper()
         {
+            //This call is required.
             Initialize();
         }
 
